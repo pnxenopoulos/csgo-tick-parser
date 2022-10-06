@@ -1,6 +1,6 @@
 # CSGO Demo Tick Parser
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CAh6jaZsfgrQEON3hMH_yB7Y_Fnx8PFP?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CAh6jaZsfgrQEON3hMH_yB7Y_Fnx8PFP?usp=sharing)
 
 
 The [awpy](https://github.com/pnxenopoulos/awpy) parser allows one to parse a CSGO demofile. However, it is not written to parse _every_ tick due to high memory requirements. To address this issue, this repository provides a standalone Go program that can be run to parse every tick in a CSGO demo. 
